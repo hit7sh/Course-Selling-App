@@ -1,10 +1,6 @@
-### Hard todo
-Create the user side of a course selling app.
-This means the backend remains the same, but now you have two websites.
-Routes should be very similar to the old ones, but now you need to add a new route for the user to see the contents of a single course.
-You need to create the boilerplate yourself using vite
+### Course Selling app
 
-Frontend Routes expected - 
+Frontend Routes - 
 1. /courses - shows all courses
 2. /courses/purchased - Shows all purchased courses
 3. /courses/:id - Shows a single course, allows user to purchase it
@@ -12,7 +8,7 @@ Frontend Routes expected -
 5. /signup - signup page
 6. / - Landing page
 
+![Screenshot (284)](https://github.com/hit7sh/Course-Selling-App/assets/57103779/f527dadd-2770-408c-a583-f6c2625a680a)
 
-By the end of this you should have two frontends - 
-1. One for the admin dashboard (02-medium-course-selling-app-admin-dashboard)
-2. One for the user side of the app (03-hard-course-selling-app-user-side
+![Screenshot (285)](https://github.com/hit7sh/Course-Selling-App/assets/57103779/6a161110-19b2-4c27-89f7-f956043b2669)
+
